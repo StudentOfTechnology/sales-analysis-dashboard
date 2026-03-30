@@ -8,14 +8,14 @@ This project demonstrates an end-to-end analytics workflow, transforming raw sal
 
 ---
 
-## ?? Tools & Technologies
+## Tools & Technologies
 
 * PostgreSQL (Data cleaning and transformation)
 * Power BI (Data visualization and dashboarding)
 
 ---
 
-## ?? Dataset
+## Dataset
 
 The dataset includes transactional sales data with fields such as:
 
@@ -42,7 +42,7 @@ These transformations enabled easier aggregation, filtering, and business insigh
 
 ---
 
-## ?? Dashboard Features (Power BI)
+## Dashboard Features (Power BI)
 
 ### Key Performance Indicators (KPIs)
 
@@ -62,7 +62,7 @@ These transformations enabled easier aggregation, filtering, and business insigh
 
 ---
 
-## ?? Key Insights
+## Key Insights
 
 * Technology category drives the highest sales performance
 * Office Supplies significantly underperforms compared to other categories
@@ -70,7 +70,7 @@ These transformations enabled easier aggregation, filtering, and business insigh
 
 ---
 
-## ?? Screenshots
+## Screenshots
 SQL Data Cleaning
 ![Dashboard](screenshots/01_sales_cleaned_view.png)
 
@@ -79,7 +79,7 @@ Power BI Query Editor
 
 ---
 
-## ?? Outcome
+## Outcome
 
 This project highlights the ability to:
 
