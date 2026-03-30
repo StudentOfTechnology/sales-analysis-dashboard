@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer ID,Customer Name,Segment,Region,State,Category,Sub-Category,Product Name,Sales,Quantity,Discount,Profit
+1001,2025-11-16,C063,Mia Taylor,Consumer,South,South Carolina,Furniture,Furnishings,Desk Lamp,37.53,1,0.15,2.84
+1002,2024-02-25,C087,Noah Green,Corporate,Central,Illinois,Technology,Laptops,Dell Laptop,730.84,1,0.20,-13.54
+1003,2024-09-12,C112,Sarah Collins,Home Office,West,Washington,Furniture,Chairs,Executive Chair,2503.49,4,0.25,37.58
+1004,2025-05-12,C062,Samuel Green,Consumer,West,California,Furniture,Bookcases,Metal Bookcase,378.85,1,0.10,40.04
+1005,2025-07-23,C085,Elijah Phillips,Corporate,South,North Carolina,Furniture,Furnishings,Desk Lamp,24.88,1,0.20,0.61
+1006,2025-06-27,C021,David Patel,Consumer,West,Arizona,Furniture,Chairs,Executive Chair,426.33,1,0.25,16.10
+1007,2024-02-10,C080,Owen Smith,Consumer,Central,Kansas,Office Supplies,Labels,Shipping Labels,52.33,3,0.15,7.66
+1008,2024-03-15,C002,Sarah Hall,Consumer,East,Massachusetts,Furniture,Chairs,Executive Chair,775.80,1,0.05,116.38
+1009,2024-06-10,C057,James Lewis,Home Office,Central,Illinois,Office Supplies,Binders,Basic Binder,106.35,5,0.25,-1.80
+1010,2024-06-08,C035,David Adams,Consumer,South,Tennessee,Furniture,Furnishings,Desk Lamp,139.75,2,0.05,21.44
+1011,2025-03-09,C107,Samuel Green,Consumer,South,Georgia,Office Supplies,Binders,Basic Binder,58.38,3,0.15,2.96
+1012,2024-06-01,C070,Abigail Adams,Consumer,West,Arizona,Technology,Laptops,Dell Laptop,1376.27,1,0.05,258.43
+1013,2025-11-13,C014,Hannah Collins,Consumer,Central,Minnesota,Office Supplies,Labels,Address Labels,52.79,6,0.25,6.45
+1014,2024-07-02,C095,Ethan Edwards,Home Office,East,Maryland,Office Supplies,Paper,Notebook Pack,116.38,8,0.20,-0.59
+1015,2024-08-15,C026,Aria Martinez,Corporate,West,Oregon,Office Supplies,Paper,Notebook Pack,249.14,8,0.05,35.14
+1016,2024-12-25,C083,Mason Wilson,Consumer,Central,Kansas,Office Supplies,Labels,Shipping Labels,115.80,2,0.30,2.05
+1017,2024-11-17,C056,Noah Walker,Corporate,West,Utah,Office Supplies,Storage,Drawer Organizer,108.02,3,0.00,26.90
+1018,2025-11-17,C026,Aria Martinez,Consumer,South,Tennessee,Technology,Accessories,USB-C Hub,183.28,2,0.05,23.52
+1019,2025-12-14,C038,Sophia Green,Corporate,South,Louisiana,Office Supplies,Binders,Basic Binder,151.32,8,0.15,6.00
+1020,2025-08-16,C078,Olivia Allen,Corporate,West,New Mexico,Office Supplies,Binders,Basic Binder,149.23,5,0.20,17.67
+1021,2025-09-26,C043,Aria Lewis,Consumer,East,New Jersey,Office Supplies,Binders,Basic Binder,35.42,3,0.00,3.26
+1022,2025-10-06,C074,Zara Martinez,Consumer,Central,Wisconsin,Technology,Laptops,Dell Laptop,1267.05,1,0.15,91.52
+1023,2025-12-13,C067,Elijah Thomas,Consumer,Central,Ohio,Technology,Laptops,HP Laptop,3032.76,2,0.15,108.67
+1024,2025-05-31,C055,Samuel Perez,Home Office,Central,Michigan,Office Supplies,Paper,Printer Paper Pack,80.43,4,0.05,17.07
+1025,2024-10-08,C057,James Lewis,Consumer,South,North Carolina,Technology,Phones,Samsung Galaxy,2252.61,3,0.00,328.80
+1026,2024-12-04,C070,Abigail Adams,Consumer,South,Louisiana,Technology,Phones,Google Pixel,1150.63,2,0.25,20.80
+1027,2024-11-01,C097,Isaac Turner,Consumer,East,Maryland,Technology,Accessories,Wireless Mouse,106.54,2,0.20,5.56
+1028,2025-02-02,C044,Sophia Perez,Corporate,East,Pennsylvania,Office Supplies,Paper,Notebook Pack,138.45,8,0.30,2.77
+1029,2025-03-14,C018,Jack Hall,Home Office,South,North Carolina,Technology,Phones,Google Pixel,739.45,1,0.05,76.57
+1030,2024-03-24,C061,Zain Collins,Consumer,West,Colorado,Furniture,Furnishings,Desk Lamp,20.18,1,0.30,-1.48
+1031,2025-09-28,C020,Julian Wright,Consumer,West,Washington,Technology,Accessories,Mechanical Keyboard,100.18,1,0.15,2.54
+1032,2024-04-27,C100,James Roberts,Corporate,East,Massachusetts,Technology,Accessories,Mechanical Keyboard,455.22,4,0.15,16.01
+1033,2025-08-29,C089,Aria Campbell,Home Office,South,North Carolina,Office Supplies,Storage,Storage Box,325.91,5,0.00,57.21
+1034,2025-06-02,C083,Mason Wilson,Consumer,East,Rhode Island,Furniture,Tables,Office Desk,2344.56,4,0.15,128.42
+1035,2024-10-03,C079,Zain Thomas,Corporate,West,New Mexico,Technology,Laptops,HP Laptop,2460.38,3,0.15,9.15
+1036,2025-04-20,C073,Yusuf Smith,Corporate,West,California,Technology,Accessories,Wireless Mouse,28.58,1,0.10,2.22
+1037,2024-10-09,C072,Ella Walker,Consumer,East,Massachusetts,Furniture,Furnishings,Desk Lamp,43.91,1,0.15,1.65
+1038,2024-01-18,C012,Isabella Parker,Consumer,West,Nevada,Technology,Phones,iPhone 13,1421.31,2,0.10,102.87
+1039,2024-10-04,C040,Logan Hall,Consumer,South,Alabama,Technology,Phones,iPhone 13,1467.80,2,0.25,-105.42
+1040,2025-06-21,C077,Penelope Wright,Consumer,South,Alabama,Technology,Phones,iPhone 13,891.81,1,0.05,78.24
+1041,2024-05-09,C082,Mason Jackson,Home Office,West,California,Technology,Accessories,Mechanical Keyboard,59.08,1,0.10,1.95
+1042,2024-03-07,C052,Lucas Edwards,Consumer,Central,Illinois,Furniture,Bookcases,Wood Bookcase,538.92,3,0.30,-60.32
+1043,2025-09-25,C029,Elijah Sanchez,Corporate,West,New Mexico,Technology,Phones,iPhone 13,1565.26,2,0.10,38.24
+1044,2025-10-02,C028,Yusuf Allen,Consumer,South,Alabama,Furniture,Bookcases,Metal Bookcase,299.30,1,0.00,45.27
+1045,2025-12-20,C111,Michael Wright,Consumer,Central,Missouri,Office Supplies,Paper,Printer Paper Pack,251.09,5,0.15,27.74
+1046,2024-05-25,C010,Mason Stewart,Consumer,East,Virginia,Technology,Laptops,HP Laptop,939.15,1,0.05,90.05
+1047,2025-03-18,C095,Ethan Edwards,Consumer,South,Florida,Furniture,Furnishings,Desk Lamp,121.17,2,0.25,-10.59
+1048,2025-08-13,C006,Ayesha Collins,Corporate,South,South Carolina,Office Supplies,Storage,Drawer Organizer,97.76,3,0.15,5.03
+1049,2025-11-17,C014,Hannah Collins,Home Office,West,New Mexico,Furniture,Furnishings,Area Rug,844.44,4,0.25,-1.27
+1050,2025-02-17,C111,Michael Wright,Consumer,East,Rhode Island,Technology,Laptops,Dell Laptop,1165.75,1,0.05,158.70
+1051,2024-10-21,C057,James Lewis,Home Office,West,California,Office Supplies,Labels,Address Labels,69.69,5,0.05,12.86
+1052,2024-04-26,C060,Fatima Collins,Home Office,Central,Michigan,Technology,Accessories,Wireless Mouse,51.62,2,0.10,6.49
+1053,2025-07-18,C019,Noah Harris,Consumer,East,Pennsylvania,Office Supplies,Storage,Storage Box,112.64,3,0.15,10.91
+1054,2024-11-01,C108,Hannah Campbell,Corporate,East,Rhode Island,Office Supplies,Storage,Storage Box,129.47,4,0.15,9.18
+1055,2025-12-15,C031,Isabella Brown,Corporate,South,Louisiana,Furniture,Chairs,Office Chair,827.42,2,0.20,-2.89
+1056,2024-06-04,C064,Mason Turner,Home Office,South,Tennessee,Office Supplies,Storage,Storage Box,283.24,8,0.10,50.50
+1057,2024-06-07,C010,Mason Stewart,Consumer,East,Connecticut,Technology,Accessories,USB-C Hub,42.29,1,0.00,7.65
+1058,2025-10-03,C092,Sarah Martinez,Home Office,West,California,Technology,Accessories,USB-C Hub,35.50,1,0.15,1.98
+1059,2025-10-10,C091,Harper Turner,Home Office,West,Oregon,Office Supplies,Storage,Drawer Organizer,49.98,1,0.15,2.59
+1060,2024-07-03,C022,Abigail Wilson,Consumer,Central,Minnesota,Technology,Accessories,USB-C Hub,22.95,1,0.25,0.55
+1061,2024-01-10,C116,Victoria Davis,Corporate,East,Pennsylvania,Furniture,Chairs,Executive Chair,1286.91,4,0.30,-2.17
+1062,2024-11-05,C026,Aria Martinez,Home Office,East,Massachusetts,Furniture,Furnishings,Desk Lamp,263.67,2,0.15,1.03
+1063,2024-10-08,C002,Sarah Hall,Corporate,Central,Illinois,Office Supplies,Storage,Drawer Organizer,230.72,6,0.20,4.32
+1064,2024-07-13,C080,Owen Smith,Consumer,Central,Michigan,Technology,Accessories,USB-C Hub,108.86,3,0.10,9.85
+1065,2024-04-02,C117,Mia Brown,Consumer,Central,Michigan,Furniture,Furnishings,Desk Lamp,91.43,2,0.25,0.67
+1066,2025-05-08,C104,Lucas Parker,Consumer,East,Massachusetts,Technology,Laptops,HP Laptop,745.57,1,0.15,48.72
+1067,2025-07-24,C047,Mia King,Consumer,West,Oregon,Technology,Accessories,Wireless Mouse,36.81,1,0.15,2.42
+1068,2024-04-20,C087,Noah Green,Consumer,South,Tennessee,Office Supplies,Storage,Drawer Organizer,127.48,3,0.00,21.46
+1069,2024-02-08,C039,Evelyn Harris,Home Office,South,Alabama,Office Supplies,Storage,Storage Box,91.23,2,0.10,19.50
+1070,2024-06-07,C114,Leo Clark,Consumer,South,South Carolina,Technology,Accessories,USB-C Hub,242.81,4,0.05,23.53
+1071,2025-01-06,C013,Layla Clark,Home Office,West,Colorado,Furniture,Chairs,Executive Chair,530.98,1,0.30,18.93
+1072,2025-10-16,C077,Penelope Wright,Home Office,South,Tennessee,Furniture,Furnishings,Desk Lamp,28.93,1,0.15,2.75
+1073,2024-08-26,C043,Aria Lewis,Corporate,East,New York,Furniture,Furnishings,Area Rug,659.89,4,0.30,20.41
+1074,2024-05-14,C002,Sarah Hall,Consumer,East,Connecticut,Furniture,Chairs,Office Chair,295.08,1,0.00,27.63
+1075,2025-01-05,C066,Olivia Anderson,Corporate,West,Nevada,Office Supplies,Labels,Shipping Labels,66.40,1,0.20,-4.44
+1076,2025-02-15,C055,Samuel Perez,Corporate,West,New Mexico,Furniture,Chairs,Executive Chair,309.14,1,0.15,5.26
+1077,2024-11-28,C049,Mia Khan,Home Office,West,New Mexico,Technology,Accessories,Wireless Mouse,23.12,1,0.20,0.83
+1078,2024-08-08,C056,Noah Walker,Consumer,South,Tennessee,Office Supplies,Paper,Notebook Pack,72.47,4,0.15,3.65
+1079,2025-04-30,C009,Lucas Clark,Consumer,South,Louisiana,Furniture,Tables,Office Desk,883.72,2,0.20,3.61
+1080,2024-12-28,C112,Sarah Collins,Corporate,Central,Illinois,Office Supplies,Labels,Shipping Labels,118.84,5,0.10,20.60
+1081,2025-07-23,C048,Penelope Davis,Consumer,South,Alabama,Office Supplies,Paper,Notebook Pack,171.00,7,0.30,14.62
+1082,2025-12-11,C035,David Adams,Consumer,South,North Carolina,Office Supplies,Storage,Drawer Organizer,89.97,4,0.05,8.77
+1083,2024-04-03,C096,Ayesha Patel,Corporate,West,New Mexico,Technology,Phones,Samsung Galaxy,765.60,1,0.15,64.31
+1084,2025-09-24,C007,Zain Khan,Corporate,South,Louisiana,Technology,Accessories,Wireless Mouse,43.64,1,0.05,3.70
+1085,2025-11-25,C076,Julian Hall,Consumer,Central,Illinois,Furniture,Furnishings,Desk Lamp,230.99,4,0.00,44.68
+1086,2024-10-23,C042,Grace Thomas,Consumer,West,Utah,Furniture,Bookcases,Metal Bookcase,250.62,1,0.20,6.06
+1087,2024-02-13,C056,Noah Walker,Consumer,East,Connecticut,Technology,Accessories,Mechanical Keyboard,68.38,1,0.15,3.10
+1088,2025-09-24,C059,Aria Walker,Home Office,East,Massachusetts,Technology,Laptops,HP Laptop,846.24,1,0.10,19.35
+1089,2024-06-21,C010,Mason Stewart,Consumer,South,Alabama,Office Supplies,Storage,Drawer Organizer,145.27,4,0.15,12.16
+1090,2025-09-08,C020,Julian Wright,Corporate,Central,Michigan,Office Supplies,Labels,Shipping Labels,84.77,5,0.10,13.35
+1091,2025-10-01,C042,Grace Thomas,Home Office,Central,Michigan,Technology,Laptops,HP Laptop,1081.22,1,0.15,80.57
+1092,2024-02-08,C008,Sarah Patel,Consumer,South,Florida,Technology,Accessories,USB-C Hub,46.30,1,0.10,5.70
+1093,2025-08-08,C084,Elijah Young,Consumer,Central,Michigan,Office Supplies,Labels,Shipping Labels,118.03,4,0.20,-16.20
+1094,2025-03-25,C068,Zara Carter,Corporate,South,Tennessee,Office Supplies,Storage,Drawer Organizer,116.61,4,0.20,12.93
+1095,2025-07-25,C087,Noah Green,Consumer,South,Georgia,Technology,Phones,Samsung Galaxy,1524.99,2,0.00,329.59
+1096,2024-03-27,C040,Logan Hall,Corporate,Central,Kansas,Office Supplies,Paper,Notebook Pack,154.38,6,0.20,11.65
+1097,2025-01-05,C003,Ethan Clark,Consumer,South,Alabama,Technology,Phones,Samsung Galaxy,1747.99,2,0.00,207.30
+1098,2025-07-06,C107,Samuel Green,Corporate,West,Colorado,Office Supplies,Storage,Storage Box,90.55,5,0.15,12.25
+1099,2025-03-24,C006,Ayesha Collins,Consumer,Central,Indiana,Office Supplies,Labels,Shipping Labels,99.70,5,0.15,4.72
+1100,2024-07-17,C048,Penelope Davis,Corporate,Central,Wisconsin,Technology,Laptops,HP Laptop,923.98,1,0.10,120.52
+1101,2024-09-13,C007,Zain Khan,Corporate,East,Massachusetts,Office Supplies,Binders,Premium Binder,87.19,5,0.05,14.10
+1102,2024-04-03,C117,Mia Brown,Consumer,West,Colorado,Office Supplies,Storage,Drawer Organizer,98.69,4,0.05,10.58
+1103,2024-04-11,C108,Hannah Campbell,Corporate,West,Arizona,Furniture,Bookcases,Wood Bookcase,397.27,1,0.25,-63.67
+1104,2024-09-19,C028,Yusuf Allen,Home Office,Central,Minnesota,Furniture,Tables,Office Desk,287.32,1,0.05,25.77
+1105,2025-05-26,C077,Penelope Wright,Corporate,Central,Indiana,Office Supplies,Binders,Premium Binder,91.70,3,0.00,13.75
+1106,2025-01-04,C009,Lucas Clark,Home Office,Central,Illinois,Technology,Phones,Google Pixel,660.25,1,0.15,25.34
+1107,2025-11-03,C081,Isaac Walker,Consumer,Central,Kansas,Furniture,Tables,Conference Table,1646.28,1,0.10,158.53
+1108,2024-07-05,C104,Lucas Parker,Consumer,Central,Wisconsin,Furniture,Chairs,Office Chair,317.21,1,0.20,2.94
+1109,2025-07-10,C061,Zain Collins,Consumer,Central,Indiana,Furniture,Furnishings,Area Rug,729.68,3,0.00,82.30
+1110,2025-02-13,C096,Ayesha Patel,Consumer,East,Connecticut,Office Supplies,Labels,Address Labels,88.55,5,0.10,4.70
+1111,2024-07-03,C070,Abigail Adams,Consumer,South,Tennessee,Office Supplies,Binders,Basic Binder,85.25,3,0.10,11.08
+1112,2024-12-27,C079,Zain Thomas,Home Office,South,Texas,Furniture,Chairs,Executive Chair,1864.36,2,0.10,163.96
+1113,2025-09-14,C087,Noah Green,Corporate,South,Florida,Furniture,Furnishings,Desk Lamp,207.36,2,0.10,7.11
+1114,2025-01-14,C048,Penelope Davis,Consumer,South,Georgia,Technology,Accessories,Wireless Mouse,22.55,1,0.10,1.05
+1115,2025-01-31,C117,Mia Brown,Corporate,South,North Carolina,Office Supplies,Binders,Premium Binder,119.85,3,0.15,0.72
+1116,2025-03-31,C012,Isabella Parker,Corporate,East,Connecticut,Office Supplies,Binders,Basic Binder,85.53,6,0.10,6.75
+1117,2024-06-27,C102,Amelia Campbell,Consumer,South,Alabama,Office Supplies,Paper,Printer Paper Pack,72.10,3,0.10,8.67
+1118,2024-03-29,C009,Lucas Clark,Consumer,East,Rhode Island,Technology,Accessories,Wireless Mouse,33.17,2,0.20,2.92
+1119,2025-11-27,C067,Elijah Thomas,Consumer,East,Pennsylvania,Office Supplies,Paper,Printer Paper Pack,101.12,2,0.15,12.31
+1120,2025-12-27,C029,Elijah Sanchez,Consumer,East,Virginia,Office Supplies,Paper,Notebook Pack,93.34,3,0.15,7.18
+1121,2024-06-21,C076,Julian Hall,Home Office,South,Tennessee,Office Supplies,Paper,Notebook Pack,44.71,5,0.20,4.38
+1122,2025-08-08,C054,Lucas Turner,Corporate,South,North Carolina,Office Supplies,Binders,Basic Binder,93.42,3,0.05,14.92
+1123,2025-03-01,C062,Samuel Green,Consumer,West,Arizona,Technology,Phones,iPhone 13,1627.30,2,0.15,205.21
+1124,2024-11-22,C031,Isabella Brown,Consumer,South,Alabama,Furniture,Bookcases,Wood Bookcase,538.35,1,0.30,-76.73
+1125,2025-08-14,C093,Benjamin Young,Consumer,Central,Wisconsin,Office Supplies,Labels,Address Labels,47.36,4,0.20,3.10
+1126,2025-08-20,C046,Elijah Evans,Consumer,South,South Carolina,Furniture,Furnishings,Area Rug,132.89,1,0.00,14.85
+1127,2024-02-16,C052,Lucas Edwards,Consumer,Central,Kansas,Technology,Accessories,Mechanical Keyboard,100.56,1,0.10,5.92
+1128,2024-05-01,C017,Caleb Carter,Home Office,West,Colorado,Technology,Accessories,Mechanical Keyboard,107.35,1,0.00,0.58
+1129,2025-04-30,C067,Elijah Thomas,Consumer,Central,Michigan,Technology,Phones,Samsung Galaxy,1932.26,2,0.00,364.65
+1130,2025-06-29,C063,Mia Taylor,Corporate,South,Texas,Technology,Phones,Google Pixel,1045.61,2,0.30,-168.35
+1131,2025-11-02,C101,Yusuf Thomas,Home Office,Central,Indiana,Office Supplies,Binders,Premium Binder,247.99,5,0.05,57.01
+1132,2024-02-02,C074,Zara Martinez,Home Office,South,Texas,Technology,Laptops,HP Laptop,703.10,1,0.10,59.17
+1133,2024-03-04,C091,Harper Turner,Consumer,South,Tennessee,Office Supplies,Labels,Address Labels,80.80,4,0.05,14.11
+1134,2025-11-28,C083,Mason Wilson,Corporate,South,South Carolina,Furniture,Bookcases,Metal Bookcase,241.40,1,0.15,24.02
+1135,2025-12-22,C063,Mia Taylor,Consumer,West,Oregon,Furniture,Furnishings,Area Rug,694.47,2,0.15,30.77
+1136,2024-05-29,C038,Sophia Green,Consumer,East,Massachusetts,Technology,Phones,Samsung Galaxy,791.74,1,0.05,67.30
+1137,2024-05-20,C014,Hannah Collins,Corporate,Central,Indiana,Furniture,Chairs,Executive Chair,1395.76,3,0.05,90.12
+1138,2025-11-28,C099,Penelope Taylor,Consumer,East,Pennsylvania,Technology,Laptops,Dell Laptop,4330.33,4,0.25,-384.91
+1139,2024-04-01,C084,Elijah Young,Corporate,West,California,Office Supplies,Storage,Drawer Organizer,111.00,2,0.25,15.24
+1140,2024-10-23,C113,Yusuf Clark,Consumer,South,Florida,Office Supplies,Storage,Drawer Organizer,136.42,4,0.10,29.09
+1141,2024-10-06,C025,Ali Perez,Corporate,West,New Mexico,Office Supplies,Binders,Basic Binder,110.82,6,0.00,25.26
+1142,2025-10-16,C115,John Brown,Consumer,West,Colorado,Furniture,Tables,Office Desk,710.17,2,0.05,62.00
+1143,2024-09-30,C043,Aria Lewis,Consumer,Central,Illinois,Furniture,Furnishings,Area Rug,231.41,1,0.05,25.68
+1144,2025-12-21,C099,Penelope Taylor,Consumer,South,North Carolina,Technology,Phones,Google Pixel,669.88,1,0.30,-70.07
+1145,2025-04-27,C097,Isaac Turner,Corporate,Central,Indiana,Office Supplies,Paper,Printer Paper Pack,197.59,6,0.15,23.85
+1146,2024-04-24,C008,Sarah Patel,Home Office,East,New Jersey,Technology,Accessories,Mechanical Keyboard,91.51,1,0.05,8.09
+1147,2024-04-03,C116,Victoria Davis,Consumer,East,Rhode Island,Furniture,Tables,Conference Table,1139.82,1,0.15,76.41
+1148,2024-01-04,C096,Ayesha Patel,Consumer,South,Louisiana,Technology,Phones,Samsung Galaxy,599.16,1,0.30,-81.31
+1149,2024-05-18,C099,Penelope Taylor,Corporate,Central,Minnesota,Technology,Phones,Google Pixel,2339.26,3,0.10,187.73
+1150,2024-05-16,C084,Elijah Young,Home Office,South,Louisiana,Technology,Accessories,Wireless Mouse,36.17,2,0.05,2.74
+1151,2025-07-11,C055,Samuel Perez,Corporate,East,New Jersey,Technology,Laptops,HP Laptop,1175.51,1,0.05,189.93
+1152,2024-01-17,C031,Isabella Brown,Consumer,South,Texas,Technology,Laptops,HP Laptop,1246.55,2,0.20,-47.15
+1153,2024-02-27,C018,Jack Hall,Consumer,South,Tennessee,Technology,Accessories,Mechanical Keyboard,102.61,2,0.20,5.75
+1154,2025-02-27,C039,Evelyn Harris,Consumer,Central,Michigan,Technology,Accessories,USB-C Hub,67.03,1,0.10,9.91
+1155,2024-11-22,C090,John Stewart,Consumer,South,Louisiana,Furniture,Bookcases,Metal Bookcase,255.75,1,0.10,4.42
+1156,2025-03-02,C072,Ella Walker,Corporate,West,Oregon,Furniture,Furnishings,Desk Lamp,158.22,2,0.25,-11.98
+1157,2024-10-01,C049,Mia Khan,Corporate,Central,Ohio,Furniture,Bookcases,Metal Bookcase,527.56,2,0.20,-14.40
+1158,2024-01-16,C028,Yusuf Allen,Home Office,East,Massachusetts,Office Supplies,Paper,Printer Paper Pack,144.72,6,0.25,7.67
+1159,2024-10-16,C049,Mia Khan,Consumer,Central,Missouri,Furniture,Furnishings,Area Rug,109.52,1,0.10,15.19
+1160,2024-07-27,C048,Penelope Davis,Consumer,South,Alabama,Office Supplies,Paper,Printer Paper Pack,88.64,1,0.10,10.31
+1161,2025-08-06,C107,Samuel Green,Consumer,Central,Kansas,Furniture,Furnishings,Area Rug,548.83,3,0.30,-6.19
+1162,2024-06-22,C018,Jack Hall,Corporate,West,California,Technology,Accessories,Wireless Mouse,149.14,3,0.00,15.78
+1163,2025-10-07,C030,Benjamin Edwards,Consumer,South,Alabama,Technology,Accessories,Wireless Mouse,41.48,1,0.10,4.75
+1164,2024-01-07,C069,Grace Brown,Corporate,South,North Carolina,Technology,Accessories,Wireless Mouse,36.28,1,0.10,2.85
+1165,2024-04-08,C068,Zara Carter,Consumer,South,North Carolina,Office Supplies,Paper,Notebook Pack,61.60,3,0.05,10.66
+1166,2025-12-01,C106,Victoria Young,Home Office,Central,Illinois,Furniture,Tables,Office Desk,359.38,1,0.15,-4.88
+1167,2024-12-05,C073,Yusuf Smith,Home Office,East,New York,Furniture,Furnishings,Desk Lamp,261.13,3,0.20,-8.60
+1168,2024-10-14,C116,Victoria Davis,Corporate,Central,Michigan,Office Supplies,Storage,Drawer Organizer,92.25,3,0.30,-0.73
+1169,2024-09-03,C073,Yusuf Smith,Home Office,West,Colorado,Technology,Phones,Google Pixel,1286.55,2,0.15,-11.35
+1170,2024-08-25,C108,Hannah Campbell,Consumer,Central,Minnesota,Office Supplies,Labels,Shipping Labels,92.88,4,0.10,8.82
+1171,2024-07-09,C088,Julian Thomas,Corporate,West,Oregon,Office Supplies,Paper,Printer Paper Pack,103.56,6,0.00,22.93
+1172,2024-04-19,C012,Isabella Parker,Consumer,West,Colorado,Office Supplies,Paper,Printer Paper Pack,70.38,2,0.00,14.22
+1173,2025-07-21,C012,Isabella Parker,Corporate,East,Maryland,Furniture,Chairs,Office Chair,286.00,1,0.20,-0.69
+1174,2025-06-17,C022,Abigail Wilson,Corporate,South,North Carolina,Technology,Phones,iPhone 13,854.28,1,0.00,128.60
+1175,2024-09-09,C093,Benjamin Young,Corporate,Central,Indiana,Technology,Laptops,HP Laptop,937.42,1,0.00,188.42
+1176,2025-03-16,C105,Julian White,Home Office,Central,Michigan,Technology,Phones,iPhone 13,1432.59,2,0.15,27.37
+1177,2025-10-10,C063,Mia Taylor,Home Office,East,Connecticut,Technology,Phones,Google Pixel,1198.71,2,0.05,155.29
+1178,2025-07-17,C004,James Wilson,Home Office,West,Nevada,Technology,Laptops,HP Laptop,1022.80,1,0.15,92.13
+1179,2024-09-04,C033,Penelope Allen,Corporate,Central,Minnesota,Furniture,Chairs,Executive Chair,1871.37,4,0.15,59.65
+1180,2025-07-10,C005,Zara Parker,Corporate,West,Washington,Furniture,Tables,Office Desk,289.41,1,0.20,0.24
+1181,2024-12-05,C102,Amelia Campbell,Consumer,South,North Carolina,Furniture,Furnishings,Desk Lamp,211.91,2,0.15,4.70
+1182,2025-11-26,C076,Julian Hall,Corporate,South,Texas,Technology,Accessories,Wireless Mouse,20.65,1,0.25,0.67
+1183,2024-12-17,C059,Aria Walker,Corporate,West,Colorado,Technology,Accessories,Wireless Mouse,34.95,1,0.15,1.12
+1184,2024-12-17,C083,Mason Wilson,Consumer,East,New Jersey,Technology,Accessories,Wireless Mouse,41.95,1,0.10,3.63
+1185,2024-07-09,C082,Mason Jackson,Corporate,West,Nevada,Technology,Laptops,HP Laptop,837.17,1,0.00,111.68
+1186,2025-07-03,C024,Grace Walker,Consumer,South,Florida,Furniture,Furnishings,Area Rug,646.29,3,0.10,57.07
+1187,2024-12-22,C046,Elijah Evans,Home Office,Central,Missouri,Office Supplies,Storage,Drawer Organizer,136.51,5,0.15,7.43
+1188,2025-02-01,C054,Lucas Turner,Corporate,Central,Minnesota,Furniture,Bookcases,Metal Bookcase,498.21,2,0.20,25.36
+1189,2024-11-18,C108,Hannah Campbell,Consumer,South,Tennessee,Office Supplies,Labels,Shipping Labels,93.01,5,0.05,18.22
+1190,2025-12-28,C108,Hannah Campbell,Consumer,South,Texas,Office Supplies,Paper,Printer Paper Pack,80.40,3,0.00,19.69
+1191,2025-05-22,C071,Grace Perez,Consumer,Central,Missouri,Office Supplies,Paper,Printer Paper Pack,273.34,7,0.05,55.85
+1192,2024-04-14,C095,Ethan Edwards,Home Office,Central,Missouri,Office Supplies,Storage,Storage Box,52.00,1,0.05,12.18
+1193,2024-08-02,C104,Lucas Parker,Corporate,Central,Minnesota,Furniture,Bookcases,Metal Bookcase,223.43,1,0.05,12.06
+1194,2024-11-27,C091,Harper Turner,Consumer,Central,Ohio,Furniture,Bookcases,Wood Bookcase,542.54,2,0.15,-3.40
+1195,2024-05-29,C092,Sarah Martinez,Consumer,South,Louisiana,Technology,Accessories,Wireless Mouse,33.24,1,0.05,4.06
+1196,2024-04-05,C052,Lucas Edwards,Consumer,South,Tennessee,Technology,Laptops,HP Laptop,1121.19,1,0.10,152.64
+1197,2025-12-15,C046,Elijah Evans,Home Office,East,Maryland,Furniture,Furnishings,Desk Lamp,62.73,1,0.10,7.80
+1198,2025-08-02,C110,Ethan Clark,Consumer,West,California,Furniture,Chairs,Office Chair,303.45,2,0.25,20.39
+1199,2025-03-14,C026,Aria Martinez,Home Office,East,Virginia,Furniture,Bookcases,Wood Bookcase,1905.60,4,0.05,139.97
+1200,2025-02-09,C081,Isaac Walker,Consumer,Central,Indiana,Technology,Laptops,Dell Laptop,891.79,1,0.00,97.52
+1201,2024-01-09,C090,John Stewart,Consumer,South,Louisiana,Office Supplies,Binders,Premium Binder,98.27,4,0.05,10.66
+1202,2025-01-26,C100,James Roberts,Corporate,East,Pennsylvania,Furniture,Chairs,Executive Chair,675.74,2,0.15,30.45
+1203,2025-02-25,C079,Zain Thomas,Corporate,East,Massachusetts,Office Supplies,Storage,Drawer Organizer,69.10,2,0.05,10.66
+1204,2025-10-22,C011,Sarah Evans,Consumer,Central,Missouri,Office Supplies,Paper,Printer Paper Pack,174.84,6,0.20,14.38
+1205,2024-10-29,C083,Mason Wilson,Consumer,East,New Jersey,Technology,Accessories,Wireless Mouse,38.86,1,0.10,3.46
+1206,2024-11-20,C017,Caleb Carter,Consumer,East,Maryland,Technology,Phones,Google Pixel,1739.58,2,0.20,146.28
+1207,2024-02-10,C119,Michael Phillips,Consumer,East,Virginia,Technology,Accessories,USB-C Hub,56.59,1,0.05,4.49
+1208,2024-10-11,C011,Sarah Evans,Consumer,West,Nevada,Office Supplies,Labels,Address Labels,93.48,2,0.05,17.93
+1209,2025-03-23,C094,Ethan Davis,Home Office,South,Alabama,Furniture,Tables,Office Desk,509.54,1,0.10,17.56
+1210,2025-12-25,C018,Jack Hall,Corporate,South,Tennessee,Technology,Accessories,Wireless Mouse,53.38,2,0.20,-1.15
+1211,2024-04-30,C099,Penelope Taylor,Home Office,West,Utah,Furniture,Furnishings,Area Rug,181.67,1,0.20,-5.10
+1212,2025-05-26,C110,Ethan Clark,Corporate,West,Oregon,Office Supplies,Paper,Printer Paper Pack,112.85,8,0.15,-4.71
+1213,2025-01-07,C050,Harper Baker,Home Office,South,Texas,Technology,Accessories,Mechanical Keyboard,199.03,3,0.15,10.43
+1214,2024-10-04,C106,Victoria Young,Consumer,West,California,Furniture,Bookcases,Metal Bookcase,925.48,3,0.30,-112.04
+1215,2024-12-01,C012,Isabella Parker,Corporate,South,Alabama,Technology,Phones,iPhone 13,1704.08,2,0.20,-68.29
+1216,2025-07-13,C098,Michael Parker,Corporate,South,Louisiana,Furniture,Chairs,Office Chair,297.41,1,0.15,-0.42
+1217,2025-01-20,C109,Hannah Martinez,Corporate,West,Nevada,Technology,Accessories,Wireless Mouse,16.74,1,0.10,2.57
+1218,2024-08-25,C115,John Brown,Home Office,West,Colorado,Technology,Laptops,HP Laptop,1986.45,2,0.10,-60.39
+1219,2024-05-13,C031,Isabella Brown,Consumer,East,Maryland,Office Supplies,Binders,Premium Binder,154.88,6,0.05,18.31
+1220,2024-06-08,C014,Hannah Collins,Consumer,West,Utah,Furniture,Tables,Conference Table,986.42,1,0.20,-23.04
+1221,2024-11-07,C106,Victoria Young,Corporate,Central,Indiana,Office Supplies,Paper,Notebook Pack,90.72,4,0.00,18.34
+1222,2024-06-27,C004,James Wilson,Home Office,East,New Jersey,Furniture,Tables,Office Desk,277.76,1,0.20,-19.42
+1223,2025-02-14,C048,Penelope Davis,Corporate,East,Massachusetts,Technology,Accessories,Mechanical Keyboard,35.77,1,0.20,-1.30
+1224,2024-05-11,C012,Isabella Parker,Home Office,East,Connecticut,Furniture,Tables,Conference Table,7209.49,4,0.00,951.50
+1225,2025-03-12,C023,Evelyn Scott,Consumer,East,Virginia,Furniture,Furnishings,Area Rug,697.23,3,0.00,76.34
+1226,2025-07-17,C062,Samuel Green,Consumer,South,Georgia,Technology,Laptops,Dell Laptop,1651.66,2,0.15,190.00
+1227,2025-01-02,C062,Samuel Green,Corporate,West,Colorado,Technology,Phones,Google Pixel,538.13,1,0.05,90.96
+1228,2025-06-26,C046,Elijah Evans,Corporate,East,Pennsylvania,Furniture,Tables,Office Desk,1230.41,2,0.10,154.33
+1229,2025-02-01,C046,Elijah Evans,Home Office,East,Pennsylvania,Furniture,Bookcases,Metal Bookcase,518.90,2,0.20,35.27
+1230,2025-07-31,C019,Noah Harris,Corporate,South,South Carolina,Technology,Accessories,Mechanical Keyboard,50.84,1,0.00,8.75
+1231,2024-12-05,C118,Ali Wright,Corporate,East,Connecticut,Office Supplies,Binders,Premium Binder,246.80,8,0.20,16.99
+1232,2025-06-22,C111,Michael Wright,Consumer,South,Louisiana,Technology,Accessories,Mechanical Keyboard,134.75,1,0.05,21.40
+1233,2025-05-13,C084,Elijah Young,Consumer,Central,Kansas,Furniture,Furnishings,Desk Lamp,108.03,2,0.05,14.93
+1234,2025-12-19,C074,Zara Martinez,Consumer,East,New York,Furniture,Bookcases,Metal Bookcase,330.12,1,0.25,1.34
+1235,2024-03-20,C031,Isabella Brown,Consumer,West,Washington,Office Supplies,Paper,Notebook Pack,102.37,6,0.15,5.62
+1236,2024-04-20,C093,Benjamin Young,Consumer,West,Utah,Office Supplies,Labels,Shipping Labels,109.81,8,0.10,8.44
+1237,2025-10-28,C098,Michael Parker,Corporate,South,Florida,Office Supplies,Paper,Notebook Pack,19.73,1,0.00,3.45
+1238,2024-03-17,C071,Grace Perez,Home Office,East,Connecticut,Technology,Accessories,USB-C Hub,42.84,2,0.10,6.99
+1239,2024-06-09,C007,Zain Khan,Consumer,South,Alabama,Technology,Laptops,Dell Laptop,889.21,1,0.25,19.62
+1240,2025-07-16,C108,Hannah Campbell,Consumer,South,Texas,Technology,Laptops,Dell Laptop,1021.74,1,0.15,41.63
+1241,2024-03-24,C061,Zain Collins,Home Office,West,Utah,Technology,Laptops,HP Laptop,3092.59,3,0.05,348.01
+1242,2024-02-15,C034,Ayesha Clark,Consumer,South,North Carolina,Technology,Accessories,Mechanical Keyboard,43.76,1,0.15,3.34
+1243,2025-08-26,C030,Benjamin Edwards,Corporate,East,Maryland,Office Supplies,Labels,Shipping Labels,94.18,6,0.25,2.42
+1244,2024-02-05,C065,Ayesha Davis,Corporate,West,Arizona,Furniture,Tables,Conference Table,3217.96,2,0.05,506.51
+1245,2025-11-30,C056,Noah Walker,Consumer,East,Pennsylvania,Office Supplies,Paper,Notebook Pack,109.47,3,0.25,4.36
+1246,2024-10-09,C067,Elijah Thomas,Consumer,East,Maryland,Furniture,Tables,Office Desk,508.44,1,0.15,56.02
+1247,2024-10-19,C112,Sarah Collins,Corporate,West,Utah,Furniture,Furnishings,Area Rug,365.00,2,0.15,5.49
+1248,2025-11-28,C089,Aria Campbell,Consumer,West,Colorado,Office Supplies,Binders,Basic Binder,49.71,1,0.10,5.23
+1249,2025-05-18,C110,Ethan Clark,Corporate,South,Alabama,Furniture,Tables,Conference Table,6079.77,4,0.10,245.45
+1250,2024-08-04,C117,Mia Brown,Home Office,Central,Kansas,Office Supplies,Paper,Notebook Pack,106.34,5,0.00,15.07
+1251,2024-01-30,C023,Evelyn Scott,Consumer,East,New York,Furniture,Furnishings,Desk Lamp,63.44,1,0.25,-3.89
+1252,2025-10-12,C119,Michael Phillips,Consumer,South,Tennessee,Technology,Accessories,Wireless Mouse,28.80,1,0.25,0.80
+1253,2024-09-21,C096,Ayesha Patel,Home Office,South,Texas,Technology,Phones,Google Pixel,755.53,1,0.10,93.43
+1254,2025-02-23,C066,Olivia Anderson,Consumer,East,New York,Technology,Accessories,Wireless Mouse,45.25,1,0.00,5.74
+1255,2025-12-30,C091,Harper Turner,Corporate,West,Utah,Office Supplies,Storage,Storage Box,146.30,4,0.05,1.26
+1256,2025-01-18,C072,Ella Walker,Corporate,Central,Missouri,Office Supplies,Binders,Basic Binder,64.03,5,0.10,6.38
+1257,2025-10-29,C039,Evelyn Harris,Consumer,West,Nevada,Office Supplies,Storage,Drawer Organizer,215.92,7,0.15,27.85
+1258,2024-10-29,C034,Ayesha Clark,Home Office,West,California,Technology,Accessories,Mechanical Keyboard,335.24,5,0.20,18.25
+1259,2025-05-02,C117,Mia Brown,Home Office,West,Oregon,Office Supplies,Paper,Notebook Pack,90.75,7,0.20,3.17
+1260,2024-07-06,C088,Julian Thomas,Home Office,Central,Indiana,Technology,Phones,Samsung Galaxy,1701.05,2,0.05,183.51
+1261,2025-04-26,C007,Zain Khan,Home Office,Central,Ohio,Technology,Accessories,Wireless Mouse,44.05,1,0.00,7.21
+1262,2024-06-03,C018,Jack Hall,Home Office,West,New Mexico,Furniture,Bookcases,Wood Bookcase,747.82,3,0.05,-23.72
+1263,2024-08-02,C098,Michael Parker,Corporate,Central,Michigan,Technology,Accessories,Wireless Mouse,89.62,2,0.00,15.77
+1264,2025-01-27,C001,Elijah Martinez,Consumer,South,Tennessee,Office Supplies,Labels,Shipping Labels,113.56,8,0.15,2.29
+1265,2024-12-18,C040,Logan Hall,Consumer,West,Oregon,Furniture,Bookcases,Metal Bookcase,877.90,3,0.10,81.71
+1266,2024-05-17,C044,Sophia Perez,Home Office,West,Nevada,Furniture,Bookcases,Metal Bookcase,415.73,3,0.20,-74.00
+1267,2024-05-06,C047,Mia King,Corporate,East,Maryland,Office Supplies,Storage,Storage Box,119.40,3,0.10,2.58
+1268,2025-03-02,C057,James Lewis,Consumer,Central,Wisconsin,Office Supplies,Binders,Premium Binder,55.14,3,0.15,2.49
+1269,2025-12-18,C018,Jack Hall,Consumer,East,Massachusetts,Furniture,Furnishings,Area Rug,539.75,2,0.15,36.94
+1270,2025-01-01,C091,Harper Turner,Consumer,South,South Carolina,Office Supplies,Storage,Drawer Organizer,101.56,6,0.10,8.73
+1271,2025-05-20,C020,Julian Wright,Home Office,Central,Ohio,Office Supplies,Binders,Premium Binder,118.73,2,0.05,16.37
+1272,2024-06-27,C112,Sarah Collins,Consumer,South,Tennessee,Technology,Laptops,Dell Laptop,1136.04,1,0.20,-29.64
+1273,2025-03-24,C080,Owen Smith,Consumer,Central,Kansas,Office Supplies,Paper,Notebook Pack,110.78,3,0.05,16.22
+1274,2025-10-26,C114,Leo Clark,Corporate,South,Texas,Office Supplies,Labels,Address Labels,154.91,7,0.00,32.69
+1275,2025-01-02,C079,Zain Thomas,Consumer,Central,Michigan,Technology,Accessories,Wireless Mouse,25.25,1,0.20,-4.66
+1276,2025-06-21,C099,Penelope Taylor,Corporate,Central,Indiana,Office Supplies,Labels,Address Labels,86.46,6,0.10,6.09
+1277,2024-12-20,C085,Elijah Phillips,Corporate,West,California,Furniture,Chairs,Office Chair,1373.02,4,0.15,88.64
+1278,2024-11-24,C031,Isabella Brown,Consumer,South,Alabama,Technology,Accessories,Mechanical Keyboard,54.59,1,0.20,1.58
+1279,2025-05-25,C058,Fatima Evans,Consumer,East,New York,Furniture,Tables,Office Desk,249.97,1,0.15,-6.27
+1280,2025-06-04,C072,Ella Walker,Consumer,Central,Kansas,Technology,Phones,Samsung Galaxy,769.43,1,0.05,99.30
+1281,2025-04-08,C015,Daniel Smith,Consumer,Central,Illinois,Technology,Phones,Samsung Galaxy,1692.78,3,0.25,-40.06
+1282,2024-05-23,C106,Victoria Young,Corporate,Central,Ohio,Furniture,Furnishings,Area Rug,285.29,1,0.05,20.26
+1283,2024-12-12,C014,Hannah Collins,Corporate,South,Florida,Office Supplies,Paper,Printer Paper Pack,204.36,4,0.15,-12.90
+1284,2025-08-22,C062,Samuel Green,Home Office,East,Pennsylvania,Office Supplies,Binders,Basic Binder,81.64,2,0.20,8.79
+1285,2025-03-04,C078,Olivia Allen,Home Office,Central,Missouri,Technology,Laptops,Dell Laptop,1256.96,1,0.05,96.30
+1286,2025-12-19,C071,Grace Perez,Home Office,Central,Indiana,Furniture,Furnishings,Desk Lamp,143.58,2,0.10,12.38
+1287,2024-07-01,C065,Ayesha Davis,Corporate,Central,Ohio,Office Supplies,Paper,Printer Paper Pack,185.04,5,0.15,22.23
+1288,2025-03-08,C104,Lucas Parker,Consumer,South,Louisiana,Furniture,Bookcases,Wood Bookcase,1030.90,2,0.05,69.34
+1289,2025-12-08,C101,Yusuf Thomas,Consumer,Central,Illinois,Technology,Phones,Samsung Galaxy,1000.17,1,0.15,68.14
+1290,2025-06-07,C101,Yusuf Thomas,Corporate,Central,Illinois,Office Supplies,Storage,Drawer Organizer,145.63,4,0.25,13.82
+1291,2025-09-27,C112,Sarah Collins,Corporate,East,New Jersey,Office Supplies,Storage,Drawer Organizer,199.84,6,0.15,22.80
+1292,2024-10-28,C058,Fatima Evans,Consumer,Central,Michigan,Office Supplies,Labels,Shipping Labels,50.89,6,0.00,8.26
+1293,2024-01-06,C043,Aria Lewis,Consumer,East,New York,Furniture,Bookcases,Wood Bookcase,571.25,1,0.00,87.90
+1294,2025-01-01,C010,Mason Stewart,Corporate,West,Nevada,Office Supplies,Labels,Shipping Labels,68.82,5,0.20,5.06
+1295,2025-11-10,C043,Aria Lewis,Consumer,South,South Carolina,Office Supplies,Labels,Address Labels,82.92,7,0.30,-2.08
+1296,2025-09-28,C032,Ali Clark,Home Office,Central,Kansas,Technology,Phones,Google Pixel,1253.95,2,0.00,234.33
+1297,2025-06-10,C103,Grace Carter,Consumer,West,Oregon,Office Supplies,Storage,Drawer Organizer,128.30,3,0.10,19.68
+1298,2025-11-17,C081,Isaac Walker,Corporate,East,Maryland,Office Supplies,Paper,Notebook Pack,113.44,3,0.20,-10.05
+1299,2024-01-25,C059,Aria Walker,Corporate,South,Florida,Furniture,Chairs,Executive Chair,997.02,2,0.15,28.09
+1300,2025-10-07,C052,Lucas Edwards,Consumer,South,Florida,Technology,Accessories,Wireless Mouse,89.37,2,0.10,-5.93
+1301,2024-04-18,C038,Sophia Green,Corporate,West,Washington,Furniture,Furnishings,Area Rug,768.61,3,0.10,26.14
+1302,2025-02-04,C102,Amelia Campbell,Corporate,Central,Michigan,Technology,Phones,iPhone 13,1913.49,3,0.30,-129.63
+1303,2024-05-24,C016,Julian Thomas,Consumer,Central,Minnesota,Technology,Accessories,Wireless Mouse,182.29,4,0.05,32.95
+1304,2025-10-23,C109,Hannah Martinez,Consumer,South,Alabama,Technology,Accessories,USB-C Hub,65.79,1,0.00,11.06
+1305,2025-07-16,C060,Fatima Collins,Corporate,South,Florida,Furniture,Furnishings,Area Rug,265.15,1,0.15,6.67
+1306,2024-10-18,C080,Owen Smith,Consumer,South,South Carolina,Technology,Laptops,HP Laptop,2155.63,2,0.05,289.54
+1307,2024-01-05,C041,Caleb Brown,Consumer,South,Louisiana,Furniture,Furnishings,Area Rug,130.01,1,0.15,6.51
+1308,2025-05-13,C071,Grace Perez,Consumer,Central,Ohio,Office Supplies,Paper,Notebook Pack,219.73,8,0.00,46.01
+1309,2025-06-03,C081,Isaac Walker,Consumer,Central,Minnesota,Office Supplies,Paper,Printer Paper Pack,108.13,3,0.00,22.31
+1310,2025-02-05,C029,Elijah Sanchez,Home Office,Central,Missouri,Furniture,Tables,Conference Table,1045.24,1,0.00,84.95
+1311,2025-12-01,C022,Abigail Wilson,Corporate,South,Georgia,Furniture,Bookcases,Metal Bookcase,1817.68,4,0.20,47.49
+1312,2025-05-14,C030,Benjamin Edwards,Consumer,West,California,Office Supplies,Binders,Basic Binder,110.81,5,0.15,21.25
+1313,2024-04-15,C091,Harper Turner,Home Office,Central,Missouri,Office Supplies,Paper,Notebook Pack,81.21,3,0.10,9.25
+1314,2025-06-13,C033,Penelope Allen,Consumer,East,Maryland,Technology,Phones,Samsung Galaxy,2209.87,3,0.10,227.75
+1315,2024-03-19,C066,Olivia Anderson,Corporate,South,Georgia,Furniture,Bookcases,Wood Bookcase,756.42,2,0.25,-22.95
+1316,2025-05-05,C027,Abigail Patel,Corporate,Central,Minnesota,Furniture,Chairs,Office Chair,195.16,1,0.15,16.84
+1317,2024-02-27,C022,Abigail Wilson,Consumer,South,Louisiana,Technology,Accessories,USB-C Hub,60.55,1,0.00,10.86
+1318,2025-04-04,C078,Olivia Allen,Home Office,East,Pennsylvania,Furniture,Furnishings,Desk Lamp,81.96,1,0.00,14.11
+1319,2024-06-20,C093,Benjamin Young,Corporate,East,Massachusetts,Furniture,Furnishings,Desk Lamp,43.27,1,0.05,6.62
+1320,2024-06-02,C078,Olivia Allen,Consumer,West,California,Office Supplies,Storage,Storage Box,81.85,5,0.15,0.05
+1321,2025-11-25,C084,Elijah Young,Consumer,West,California,Office Supplies,Binders,Premium Binder,133.71,4,0.25,0.43
+1322,2025-12-14,C074,Zara Martinez,Consumer,South,South Carolina,Office Supplies,Paper,Printer Paper Pack,350.45,8,0.00,56.51
+1323,2024-01-08,C074,Zara Martinez,Corporate,West,Utah,Office Supplies,Binders,Basic Binder,93.25,6,0.05,18.46
+1324,2025-03-09,C073,Yusuf Smith,Consumer,South,Louisiana,Office Supplies,Paper,Printer Paper Pack,94.93,4,0.15,12.33
+1325,2024-12-18,C100,James Roberts,Corporate,Central,Ohio,Office Supplies,Paper,Printer Paper Pack,81.36,4,0.15,8.25
+1326,2025-12-14,C088,Julian Thomas,Corporate,South,Texas,Office Supplies,Paper,Notebook Pack,243.50,7,0.10,25.80
+1327,2025-01-28,C120,Ethan Hall,Home Office,Central,Missouri,Office Supplies,Binders,Premium Binder,164.94,5,0.25,10.33
+1328,2025-06-14,C037,Elijah Green,Consumer,East,New Jersey,Technology,Accessories,USB-C Hub,117.40,2,0.05,22.69
+1329,2025-02-13,C046,Elijah Evans,Corporate,West,Nevada,Technology,Accessories,Wireless Mouse,40.54,2,0.00,5.44
+1330,2024-12-22,C045,Abigail Hall,Home Office,South,Alabama,Technology,Laptops,HP Laptop,1110.93,1,0.00,178.58
+1331,2024-04-29,C103,Grace Carter,Consumer,South,North Carolina,Office Supplies,Binders,Premium Binder,378.39,9,0.10,81.37
+1332,2025-08-23,C111,Michael Wright,Consumer,South,Florida,Technology,Phones,Google Pixel,1589.14,2,0.05,256.75
+1333,2025-12-18,C107,Samuel Green,Consumer,South,Louisiana,Office Supplies,Binders,Basic Binder,320.21,7,0.00,56.54
+1334,2025-11-30,C120,Ethan Hall,Home Office,West,Nevada,Furniture,Furnishings,Desk Lamp,54.73,1,0.10,6.03
+1335,2024-04-19,C016,Julian Thomas,Home Office,Central,Wisconsin,Technology,Accessories,USB-C Hub,44.89,2,0.10,4.23
+1336,2025-08-11,C112,Sarah Collins,Consumer,South,North Carolina,Technology,Laptops,Dell Laptop,2511.80,2,0.00,378.73
+1337,2025-12-03,C100,James Roberts,Consumer,East,Rhode Island,Technology,Phones,iPhone 13,953.45,1,0.15,3.23
+1338,2024-09-26,C031,Isabella Brown,Consumer,East,Connecticut,Technology,Phones,Google Pixel,722.20,1,0.05,75.08
+1339,2024-05-14,C074,Zara Martinez,Corporate,East,Virginia,Office Supplies,Paper,Notebook Pack,97.60,5,0.20,1.46
+1340,2024-05-17,C115,John Brown,Home Office,West,Colorado,Office Supplies,Paper,Printer Paper Pack,87.14,3,0.10,16.01
+1341,2025-05-02,C108,Hannah Campbell,Corporate,West,Colorado,Furniture,Furnishings,Area Rug,246.60,1,0.15,8.70
+1342,2025-11-26,C078,Olivia Allen,Consumer,Central,Michigan,Office Supplies,Labels,Address Labels,94.77,3,0.10,13.66
+1343,2025-04-19,C081,Isaac Walker,Home Office,East,Connecticut,Technology,Laptops,Dell Laptop,2551.30,2,0.10,109.83
+1344,2025-12-28,C035,David Adams,Corporate,West,New Mexico,Office Supplies,Paper,Printer Paper Pack,290.04,9,0.20,1.60
+1345,2024-08-28,C085,Elijah Phillips,Consumer,Central,Ohio,Furniture,Furnishings,Desk Lamp,125.39,1,0.00,17.15
+1346,2025-06-20,C098,Michael Parker,Home Office,South,Georgia,Furniture,Tables,Office Desk,1437.95,4,0.10,145.16
+1347,2024-06-23,C004,James Wilson,Consumer,West,Colorado,Office Supplies,Storage,Storage Box,187.88,4,0.20,-0.99
+1348,2025-08-28,C077,Penelope Wright,Consumer,Central,Minnesota,Technology,Accessories,Wireless Mouse,64.47,2,0.05,8.39
+1349,2025-01-09,C053,Victoria King,Consumer,West,California,Technology,Accessories,Wireless Mouse,52.64,2,0.00,8.64
+1350,2025-05-03,C039,Evelyn Harris,Consumer,West,Oregon,Technology,Accessories,USB-C Hub,62.25,2,0.10,9.20
+1351,2025-10-23,C050,Harper Baker,Home Office,South,Florida,Technology,Laptops,Dell Laptop,1277.37,1,0.15,105.17
+1352,2024-10-02,C053,Victoria King,Consumer,South,Georgia,Technology,Phones,iPhone 13,1517.56,2,0.10,-5.53
+1353,2024-07-09,C014,Hannah Collins,Consumer,South,South Carolina,Office Supplies,Binders,Premium Binder,105.27,3,0.00,17.88
+1354,2025-04-19,C090,John Stewart,Corporate,West,Arizona,Furniture,Chairs,Executive Chair,1193.55,2,0.00,123.01
+1355,2024-01-13,C016,Julian Thomas,Home Office,Central,Minnesota,Office Supplies,Paper,Printer Paper Pack,59.61,4,0.15,9.09
+1356,2025-04-29,C050,Harper Baker,Corporate,West,Colorado,Furniture,Bookcases,Wood Bookcase,744.71,2,0.20,-34.40
+1357,2024-02-23,C111,Michael Wright,Corporate,East,New Jersey,Technology,Accessories,USB-C Hub,34.31,1,0.05,0.84
+1358,2025-12-08,C061,Zain Collins,Corporate,South,Florida,Furniture,Furnishings,Desk Lamp,63.09,1,0.20,-2.24
+1359,2024-06-06,C090,John Stewart,Corporate,South,South Carolina,Furniture,Furnishings,Desk Lamp,319.34,4,0.20,19.27
+1360,2025-12-06,C049,Mia Khan,Consumer,South,Texas,Technology,Accessories,Wireless Mouse,54.39,1,0.10,3.93
+1361,2025-04-24,C036,Daniel Perez,Home Office,Central,Michigan,Furniture,Chairs,Executive Chair,466.74,1,0.05,47.39
+1362,2025-01-23,C094,Ethan Davis,Consumer,South,Tennessee,Office Supplies,Paper,Printer Paper Pack,79.12,3,0.15,7.19
+1363,2025-07-18,C020,Julian Wright,Corporate,West,Colorado,Furniture,Tables,Office Desk,679.27,1,0.00,64.92
+1364,2024-04-11,C005,Zara Parker,Corporate,East,Rhode Island,Technology,Accessories,Wireless Mouse,61.15,2,0.05,9.12
+1365,2024-08-01,C084,Elijah Young,Consumer,East,Massachusetts,Technology,Laptops,HP Laptop,2395.32,2,0.05,81.08
+1366,2025-06-25,C006,Ayesha Collins,Corporate,East,Massachusetts,Office Supplies,Labels,Shipping Labels,206.06,9,0.00,30.97
+1367,2025-10-02,C023,Evelyn Scott,Corporate,Central,Ohio,Office Supplies,Paper,Printer Paper Pack,161.50,5,0.15,5.41
+1368,2025-05-31,C044,Sophia Perez,Corporate,West,New Mexico,Office Supplies,Labels,Shipping Labels,211.18,8,0.10,25.76
+1369,2024-11-27,C078,Olivia Allen,Consumer,Central,Minnesota,Office Supplies,Paper,Printer Paper Pack,486.11,9,0.05,72.98
+1370,2025-09-02,C003,Ethan Clark,Consumer,East,Virginia,Furniture,Chairs,Office Chair,971.19,4,0.05,132.02
+1371,2025-07-20,C066,Olivia Anderson,Corporate,East,Pennsylvania,Furniture,Tables,Office Desk,388.16,1,0.05,60.25
+1372,2025-08-07,C052,Lucas Edwards,Corporate,South,Florida,Office Supplies,Binders,Premium Binder,351.33,7,0.05,61.86
+1373,2024-11-03,C005,Zara Parker,Corporate,Central,Ohio,Office Supplies,Paper,Printer Paper Pack,432.08,9,0.10,95.15
+1374,2025-10-30,C109,Hannah Martinez,Corporate,South,Louisiana,Furniture,Chairs,Executive Chair,614.75,1,0.10,32.76
+1375,2025-11-20,C094,Ethan Davis,Home Office,East,Massachusetts,Furniture,Furnishings,Desk Lamp,43.94,1,0.10,-3.26
+1376,2024-03-28,C052,Lucas Edwards,Consumer,Central,Michigan,Office Supplies,Paper,Printer Paper Pack,125.23,5,0.00,26.27
+1377,2024-09-05,C010,Mason Stewart,Consumer,West,Washington,Furniture,Tables,Office Desk,332.58,1,0.10,13.63
+1378,2024-12-24,C079,Zain Thomas,Home Office,East,Pennsylvania,Technology,Laptops,HP Laptop,5827.21,4,0.05,471.20
+1379,2024-09-05,C080,Owen Smith,Home Office,East,Virginia,Furniture,Chairs,Office Chair,576.03,2,0.00,47.65
+1380,2024-07-27,C070,Abigail Adams,Corporate,South,South Carolina,Technology,Accessories,USB-C Hub,260.81,5,0.15,9.63
+1381,2024-09-18,C022,Abigail Wilson,Consumer,South,North Carolina,Furniture,Chairs,Executive Chair,1088.65,2,0.00,122.54
+1382,2024-04-20,C003,Ethan Clark,Consumer,East,Maryland,Furniture,Furnishings,Desk Lamp,24.61,1,0.30,-2.34
+1383,2024-07-09,C026,Aria Martinez,Consumer,West,California,Furniture,Chairs,Office Chair,856.60,3,0.05,125.54
+1384,2024-12-29,C081,Isaac Walker,Consumer,East,Virginia,Office Supplies,Paper,Notebook Pack,189.98,5,0.25,-5.59
+1385,2024-06-04,C044,Sophia Perez,Home Office,Central,Ohio,Office Supplies,Binders,Premium Binder,218.47,5,0.15,20.43
+1386,2024-11-15,C117,Mia Brown,Corporate,West,Arizona,Furniture,Furnishings,Desk Lamp,111.62,1,0.15,11.40
+1387,2025-06-20,C117,Mia Brown,Consumer,East,Pennsylvania,Office Supplies,Binders,Basic Binder,67.69,5,0.00,15.91
+1388,2024-05-29,C094,Ethan Davis,Consumer,West,Utah,Office Supplies,Labels,Shipping Labels,79.33,3,0.15,12.99
+1389,2024-05-14,C024,Grace Walker,Consumer,East,Virginia,Technology,Accessories,USB-C Hub,66.89,2,0.10,3.73
+1390,2024-05-17,C065,Ayesha Davis,Home Office,West,Colorado,Furniture,Bookcases,Metal Bookcase,191.44,1,0.10,6.17
+1391,2025-02-26,C029,Elijah Sanchez,Corporate,East,New Jersey,Furniture,Chairs,Executive Chair,1563.21,3,0.30,-39.78
+1392,2024-09-09,C055,Samuel Perez,Consumer,South,Louisiana,Office Supplies,Binders,Premium Binder,113.63,4,0.25,-0.78
+1393,2025-04-12,C106,Victoria Young,Home Office,East,New Jersey,Technology,Accessories,Wireless Mouse,33.50,1,0.15,-0.73
+1394,2025-02-11,C114,Leo Clark,Consumer,East,Rhode Island,Furniture,Bookcases,Metal Bookcase,241.81,1,0.25,1.21
+1395,2025-05-27,C015,Daniel Smith,Consumer,Central,Michigan,Technology,Phones,Google Pixel,720.41,1,0.00,149.55
+1396,2024-11-27,C089,Aria Campbell,Corporate,Central,Michigan,Office Supplies,Binders,Premium Binder,81.45,2,0.05,14.30
+1397,2025-06-07,C079,Zain Thomas,Home Office,West,Utah,Furniture,Chairs,Office Chair,360.71,1,0.10,48.21
+1398,2025-12-30,C007,Zain Khan,Consumer,West,New Mexico,Technology,Phones,iPhone 13,1021.68,1,0.25,-91.73
+1399,2025-05-25,C070,Abigail Adams,Corporate,Central,Wisconsin,Furniture,Furnishings,Desk Lamp,114.18,2,0.15,-0.57
+1400,2025-07-14,C036,Daniel Perez,Corporate,Central,Indiana,Furniture,Chairs,Executive Chair,316.24,1,0.15,26.86
+1401,2024-11-01,C043,Aria Lewis,Home Office,South,Louisiana,Office Supplies,Labels,Address Labels,86.38,2,0.10,12.93
+1402,2025-08-15,C047,Mia King,Home Office,South,North Carolina,Technology,Phones,iPhone 13,2446.05,3,0.20,200.30
+1403,2024-10-08,C043,Aria Lewis,Corporate,West,Nevada,Technology,Accessories,USB-C Hub,53.69,1,0.15,6.94
+1404,2025-12-24,C037,Elijah Green,Consumer,East,Virginia,Technology,Accessories,Wireless Mouse,141.58,5,0.10,15.14
+1405,2025-05-19,C104,Lucas Parker,Consumer,Central,Missouri,Office Supplies,Labels,Address Labels,21.21,1,0.00,5.42
+1406,2025-02-27,C006,Ayesha Collins,Consumer,Central,Indiana,Furniture,Chairs,Office Chair,333.61,1,0.05,28.97
+1407,2024-01-07,C015,Daniel Smith,Corporate,West,California,Office Supplies,Paper,Notebook Pack,83.17,3,0.20,8.63
+1408,2024-06-08,C081,Isaac Walker,Consumer,East,Connecticut,Technology,Laptops,HP Laptop,1133.43,2,0.25,-33.21
+1409,2024-01-20,C027,Abigail Patel,Corporate,West,Colorado,Furniture,Chairs,Executive Chair,358.51,1,0.25,-9.87
+1410,2025-09-12,C050,Harper Baker,Consumer,South,North Carolina,Office Supplies,Binders,Premium Binder,94.66,3,0.00,14.96
+1411,2024-08-09,C068,Zara Carter,Consumer,South,Texas,Office Supplies,Paper,Printer Paper Pack,101.56,8,0.10,15.16
+1412,2025-06-20,C040,Logan Hall,Corporate,South,Florida,Office Supplies,Paper,Notebook Pack,110.17,9,0.15,10.34
+1413,2024-01-05,C040,Logan Hall,Home Office,Central,Ohio,Technology,Phones,Samsung Galaxy,2428.40,3,0.00,460.10
+1414,2024-08-02,C042,Grace Thomas,Consumer,South,Tennessee,Office Supplies,Paper,Printer Paper Pack,107.83,6,0.05,26.14
+1415,2025-07-09,C045,Abigail Hall,Corporate,South,North Carolina,Technology,Accessories,Mechanical Keyboard,124.51,1,0.05,-3.21
+1416,2024-02-21,C014,Hannah Collins,Consumer,South,Louisiana,Furniture,Bookcases,Metal Bookcase,609.51,2,0.15,31.70
+1417,2025-11-17,C104,Lucas Parker,Corporate,East,Rhode Island,Technology,Accessories,Mechanical Keyboard,115.82,1,0.20,0.35
+1418,2025-04-21,C061,Zain Collins,Consumer,South,North Carolina,Office Supplies,Storage,Drawer Organizer,124.66,4,0.15,7.67
+1419,2024-12-25,C062,Samuel Green,Consumer,South,Tennessee,Technology,Accessories,USB-C Hub,91.01,1,0.05,15.31
+1420,2024-11-05,C069,Grace Brown,Consumer,Central,Indiana,Technology,Accessories,USB-C Hub,40.28,1,0.30,-2.71
+1421,2025-03-21,C073,Yusuf Smith,Corporate,Central,Indiana,Furniture,Bookcases,Metal Bookcase,552.15,2,0.20,30.72
+1422,2024-04-09,C106,Victoria Young,Consumer,West,Utah,Furniture,Chairs,Executive Chair,600.31,1,0.20,3.49
+1423,2024-04-02,C028,Yusuf Allen,Corporate,East,New York,Office Supplies,Paper,Printer Paper Pack,119.08,6,0.10,16.72
+1424,2024-11-02,C073,Yusuf Smith,Corporate,Central,Minnesota,Office Supplies,Binders,Premium Binder,278.89,8,0.30,-2.68
+1425,2024-03-04,C048,Penelope Davis,Home Office,East,New York,Office Supplies,Binders,Premium Binder,328.84,7,0.05,40.98
+1426,2024-11-21,C092,Sarah Martinez,Consumer,West,Nevada,Office Supplies,Binders,Basic Binder,111.54,4,0.05,25.61
+1427,2025-11-17,C017,Caleb Carter,Consumer,South,Texas,Furniture,Bookcases,Wood Bookcase,1994.43,3,0.20,-67.93
+1428,2025-12-13,C078,Olivia Allen,Home Office,Central,Wisconsin,Technology,Accessories,Wireless Mouse,38.68,1,0.10,2.29
+1429,2024-08-30,C092,Sarah Martinez,Consumer,West,Colorado,Furniture,Chairs,Office Chair,265.77,1,0.10,20.14
+1430,2025-06-23,C110,Ethan Clark,Home Office,Central,Wisconsin,Technology,Accessories,Wireless Mouse,25.10,1,0.10,2.78
+1431,2025-12-01,C082,Mason Jackson,Corporate,Central,Illinois,Office Supplies,Storage,Drawer Organizer,195.58,5,0.00,41.43
+1432,2024-10-28,C038,Sophia Green,Consumer,Central,Missouri,Office Supplies,Binders,Premium Binder,183.20,5,0.00,23.50
+1433,2025-10-01,C004,James Wilson,Consumer,South,Florida,Office Supplies,Storage,Storage Box,104.08,3,0.00,12.73
+1434,2025-08-28,C095,Ethan Edwards,Consumer,West,Arizona,Furniture,Furnishings,Area Rug,542.23,2,0.10,69.49
+1435,2024-05-28,C077,Penelope Wright,Home Office,South,South Carolina,Office Supplies,Paper,Printer Paper Pack,134.87,4,0.05,15.59
+1436,2024-02-25,C083,Mason Wilson,Consumer,East,New York,Furniture,Bookcases,Metal Bookcase,319.48,1,0.05,42.78
+1437,2025-04-30,C034,Ayesha Clark,Consumer,East,New York,Technology,Phones,iPhone 13,1538.20,2,0.05,188.13
+1438,2024-12-28,C109,Hannah Martinez,Consumer,East,Virginia,Technology,Phones,Samsung Galaxy,1167.90,1,0.00,171.61
+1439,2025-08-25,C099,Penelope Taylor,Consumer,West,Arizona,Technology,Phones,iPhone 13,791.32,1,0.00,118.18
+1440,2024-10-17,C033,Penelope Allen,Consumer,South,Florida,Furniture,Chairs,Executive Chair,742.63,2,0.25,22.50
+1441,2024-03-29,C110,Ethan Clark,Corporate,West,Arizona,Office Supplies,Storage,Drawer Organizer,164.22,6,0.05,30.52
+1442,2025-03-13,C089,Aria Campbell,Home Office,Central,Kansas,Furniture,Furnishings,Area Rug,198.26,2,0.05,17.68
+1443,2024-09-28,C023,Evelyn Scott,Consumer,West,Nevada,Technology,Accessories,USB-C Hub,27.31,1,0.10,3.84
+1444,2025-03-28,C092,Sarah Martinez,Consumer,South,Florida,Technology,Accessories,Mechanical Keyboard,117.15,1,0.10,6.29
+1445,2025-11-11,C050,Harper Baker,Consumer,Central,Minnesota,Technology,Accessories,Mechanical Keyboard,89.32,1,0.25,-2.10
+1446,2024-03-12,C070,Abigail Adams,Consumer,West,New Mexico,Furniture,Tables,Conference Table,746.75,1,0.30,-57.90
+1447,2025-01-09,C069,Grace Brown,Home Office,West,New Mexico,Office Supplies,Paper,Printer Paper Pack,116.36,3,0.05,23.12
+1448,2024-04-19,C081,Isaac Walker,Corporate,West,New Mexico,Office Supplies,Binders,Premium Binder,84.86,2,0.05,14.84
+1449,2024-11-11,C064,Mason Turner,Corporate,East,Rhode Island,Office Supplies,Labels,Shipping Labels,88.75,1,0.10,11.85
+1450,2025-06-19,C059,Aria Walker,Home Office,East,Pennsylvania,Office Supplies,Paper,Printer Paper Pack,112.07,3,0.00,13.79
+1451,2024-09-05,C090,John Stewart,Corporate,South,Texas,Office Supplies,Storage,Drawer Organizer,238.03,7,0.00,31.00
+1452,2025-09-01,C103,Grace Carter,Corporate,South,Alabama,Technology,Laptops,Dell Laptop,1737.34,2,0.30,-217.51
+1453,2024-08-06,C098,Michael Parker,Consumer,South,Florida,Furniture,Tables,Conference Table,1451.27,1,0.10,11.61
+1454,2025-10-09,C079,Zain Thomas,Consumer,South,South Carolina,Furniture,Tables,Office Desk,495.86,1,0.25,-9.85
+1455,2025-05-02,C089,Aria Campbell,Consumer,South,North Carolina,Technology,Accessories,Wireless Mouse,31.96,1,0.25,-0.69
+1456,2024-03-31,C081,Isaac Walker,Home Office,West,Utah,Furniture,Chairs,Office Chair,307.25,1,0.00,28.11
+1457,2025-07-06,C065,Ayesha Davis,Consumer,Central,Indiana,Furniture,Furnishings,Area Rug,200.07,1,0.20,15.56
+1458,2025-11-17,C119,Michael Phillips,Consumer,Central,Missouri,Furniture,Furnishings,Desk Lamp,113.94,1,0.20,-9.31
+1459,2024-06-10,C101,Yusuf Thomas,Consumer,West,Washington,Office Supplies,Storage,Drawer Organizer,132.01,6,0.10,22.91
+1460,2024-11-29,C030,Benjamin Edwards,Consumer,Central,Indiana,Technology,Phones,Google Pixel,813.53,1,0.10,114.08
+1461,2025-01-31,C048,Penelope Davis,Consumer,Central,Kansas,Office Supplies,Labels,Address Labels,46.28,3,0.00,6.56
+1462,2024-06-24,C098,Michael Parker,Consumer,East,Pennsylvania,Office Supplies,Paper,Printer Paper Pack,116.66,5,0.10,24.41
+1463,2025-05-15,C111,Michael Wright,Home Office,Central,Wisconsin,Furniture,Furnishings,Area Rug,246.51,2,0.20,-1.35
+1464,2025-08-28,C020,Julian Wright,Home Office,East,Maryland,Office Supplies,Labels,Address Labels,17.89,1,0.10,2.60
+1465,2024-04-10,C058,Fatima Evans,Consumer,South,Texas,Office Supplies,Binders,Premium Binder,113.71,4,0.05,29.23
+1466,2024-06-14,C091,Harper Turner,Consumer,Central,Illinois,Office Supplies,Labels,Address Labels,69.85,4,0.00,18.12
+1467,2024-01-02,C111,Michael Wright,Corporate,West,Colorado,Technology,Accessories,Wireless Mouse,32.26,1,0.20,1.58
+1468,2025-12-02,C011,Sarah Evans,Corporate,West,California,Technology,Accessories,Wireless Mouse,74.18,3,0.10,-0.79
+1469,2025-10-25,C072,Ella Walker,Corporate,Central,Indiana,Furniture,Bookcases,Wood Bookcase,458.16,1,0.15,19.27
+1470,2024-08-18,C042,Grace Thomas,Consumer,South,Louisiana,Furniture,Furnishings,Area Rug,199.81,1,0.10,18.89
+1471,2025-11-25,C106,Victoria Young,Corporate,South,Tennessee,Office Supplies,Paper,Notebook Pack,357.80,9,0.20,51.96
+1472,2024-07-02,C037,Elijah Green,Home Office,South,Georgia,Furniture,Furnishings,Area Rug,529.49,2,0.10,41.65
+1473,2025-11-29,C070,Abigail Adams,Home Office,West,Utah,Technology,Laptops,HP Laptop,1726.38,2,0.10,233.36
+1474,2025-02-25,C075,Zara Parker,Consumer,Central,Kansas,Technology,Accessories,Wireless Mouse,65.48,2,0.10,6.09
+1475,2024-11-09,C022,Abigail Wilson,Corporate,South,Tennessee,Office Supplies,Labels,Shipping Labels,131.18,7,0.00,19.23
+1476,2024-10-19,C024,Grace Walker,Home Office,East,Pennsylvania,Furniture,Bookcases,Wood Bookcase,353.09,1,0.30,-23.13
+1477,2025-11-12,C041,Caleb Brown,Home Office,South,South Carolina,Technology,Accessories,Mechanical Keyboard,154.96,1,0.10,13.72
+1478,2025-04-14,C119,Michael Phillips,Consumer,South,Tennessee,Office Supplies,Binders,Basic Binder,92.47,3,0.20,13.78
+1479,2025-03-28,C044,Sophia Perez,Corporate,Central,Illinois,Furniture,Bookcases,Wood Bookcase,706.86,2,0.10,-13.97
+1480,2025-08-20,C068,Zara Carter,Consumer,East,Virginia,Furniture,Furnishings,Desk Lamp,73.69,1,0.25,0.68
+1481,2025-05-17,C041,Caleb Brown,Corporate,West,California,Office Supplies,Storage,Drawer Organizer,170.52,4,0.05,26.07
+1482,2025-04-01,C112,Sarah Collins,Corporate,South,South Carolina,Office Supplies,Paper,Printer Paper Pack,89.54,4,0.10,17.62
+1483,2025-08-24,C077,Penelope Wright,Consumer,South,South Carolina,Office Supplies,Labels,Address Labels,109.01,5,0.05,17.17
+1484,2024-10-06,C054,Lucas Turner,Consumer,West,Arizona,Furniture,Furnishings,Desk Lamp,220.40,3,0.05,33.44
+1485,2025-05-20,C072,Ella Walker,Corporate,South,Texas,Furniture,Bookcases,Wood Bookcase,440.65,1,0.15,-8.32
+1486,2025-12-05,C083,Mason Wilson,Consumer,South,North Carolina,Technology,Accessories,Wireless Mouse,184.07,5,0.15,12.98
+1487,2025-12-03,C061,Zain Collins,Home Office,East,Connecticut,Technology,Accessories,Wireless Mouse,26.52,1,0.20,-0.06
+1488,2024-05-18,C046,Elijah Evans,Consumer,South,Louisiana,Office Supplies,Binders,Basic Binder,150.02,9,0.00,19.85
+1489,2024-04-06,C077,Penelope Wright,Corporate,Central,Kansas,Office Supplies,Paper,Notebook Pack,177.70,6,0.05,18.50
+1490,2024-01-14,C018,Jack Hall,Consumer,West,New Mexico,Technology,Laptops,Dell Laptop,3465.16,4,0.00,555.83
+1491,2025-12-07,C107,Samuel Green,Home Office,East,Massachusetts,Technology,Laptops,Dell Laptop,3481.89,3,0.05,232.96
+1492,2025-03-28,C114,Leo Clark,Home Office,West,Colorado,Furniture,Bookcases,Metal Bookcase,152.67,1,0.20,-10.07
+1493,2024-08-02,C017,Caleb Carter,Home Office,West,Washington,Furniture,Tables,Office Desk,527.97,2,0.20,-72.00
+1494,2024-09-16,C006,Ayesha Collins,Consumer,Central,Ohio,Office Supplies,Paper,Printer Paper Pack,356.87,9,0.05,54.38
+1495,2024-10-11,C075,Zara Parker,Consumer,South,Alabama,Technology,Accessories,Wireless Mouse,39.95,1,0.20,1.22
+1496,2024-06-24,C116,Victoria Davis,Corporate,South,Florida,Office Supplies,Storage,Drawer Organizer,215.73,9,0.20,4.14
+1497,2024-12-29,C049,Mia Khan,Consumer,West,Utah,Furniture,Tables,Office Desk,1740.21,4,0.05,95.45
+1498,2024-02-11,C011,Sarah Evans,Consumer,South,North Carolina,Technology,Laptops,HP Laptop,1945.52,2,0.15,28.22
+1499,2024-03-12,C115,John Brown,Home Office,West,Colorado,Furniture,Bookcases,Metal Bookcase,674.44,4,0.10,39.77
+1500,2025-02-14,C089,Aria Campbell,Corporate,South,Georgia,Furniture,Chairs,Executive Chair,2214.38,4,0.10,332.59
