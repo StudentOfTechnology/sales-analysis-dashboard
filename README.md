@@ -70,14 +70,23 @@ These transformations enabled easier aggregation, filtering, and business insigh
 
 ---
 
-## Screenshots
+## 📈 Key Insights
+- Technology is the top-performing category by revenue
+- Office Supplies underperforms relative to the other product categories
+- Sales trend patterns show variability over time, suggesting potential seasonality
+---
+
+## 📸 Screenshots
 SQL Data Cleaning
+
 ![Dashboard](screenshots/01_sales_cleaned_view.png)
 
 Power BI Query Editor
+
 ![Dashboard](screenshots/02_powerbi_connection.png)
 
 Final Dashboard
+
 ![Dashboard](screenshots/03_Final_Dashboard.png)
 
 ---
