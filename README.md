@@ -71,15 +71,12 @@ These transformations enabled easier aggregation, filtering, and business insigh
 ---
 
 ## ?? Screenshots
+SQL Data Cleaning
+![Dashboard](screenshots/01_sales_cleaned_view.png)
 
-*SQL data cleaning (pgAdmin)
-01_sales_cleaned_view.png
+Power BI Query Editor
+![Dashboard](screenshots/02_powerbi_connection.png)
 
-*Power BI Query Editor
-02_powerbi_connection.png
-
-*Final Dashboard View
-03_Final_dashboard.png
 ---
 
 ## ?? Outcome
