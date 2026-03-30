@@ -1,8 +1,10 @@
 # Sales Analysis Dashboard (PostgreSQL + Power BI)
+![Dashboard](screenshots/03_Final_Dashboard.png)
 
-## ?? Overview
+## 📌 Overview
 
-This project demonstrates an end-to-end data analytics workflow using PostgreSQL for data transformation and Power BI for visualization. The goal was to analyze sales performance, identify trends, and provide business insights through an interactive dashboard.
+This project demonstrates an end-to-end analytics workflow, transforming raw sales data using PostgreSQL and building an interactive Power BI dashboard to uncover performance trends, category insights, and business opportunities.
+
 
 ---
 
@@ -76,7 +78,7 @@ These transformations enabled easier aggregation, filtering, and business insigh
 *Power BI Query Editor
 02_powerbi_connection.png
 
-* Final Dashboard View
+*Final Dashboard View
 03_Final_dashboard.png
 ---
 
