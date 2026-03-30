@@ -62,11 +62,11 @@ These transformations enabled easier aggregation, filtering, and business insigh
 
 ---
 
-## Key Insights
-
-* Technology category drives the highest sales performance
-* Office Supplies significantly underperforms compared to other categories
-* Sales trends show fluctuations with identifiable peaks over time
+## 🚀 Key Highlights
+- Built an end-to-end analytics workflow from raw data to dashboard
+- Applied SQL transformations using `DATE_PART` and `CASE` logic
+- Designed KPI-driven dashboard with interactive filtering
+- Focused on business insights, not just visualization
 
 ---
 
@@ -77,12 +77,12 @@ SQL Data Cleaning
 Power BI Query Editor
 ![Dashboard](screenshots/02_powerbi_connection.png)
 
+Final Dashboard
+![Dashboard](screenshots/03_Final_Dashboard.png)
+
 ---
 
-## Outcome
-
-This project highlights the ability to:
-
-* Perform data transformation using SQL
-* Build interactive dashboards in Power BI
-* Translate raw data into actionable insights
+## ▶️ How to Use
+1. Open `powerbi/Sales Dashboard.pbix` in Power BI Desktop
+2. Refresh the data source if needed
+3. Use the category slicer to explore the dashboard
